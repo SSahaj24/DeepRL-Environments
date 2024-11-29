@@ -5,6 +5,6 @@ This repository is where I implement and test different RL algorithms on various
 Implemented on Frozen Lake 8x8 environment
 TODO
 
-## Deep Deterministic Policy Gradient (DDPG)
+## Soft Actor Critic (SAC)
 Implemented on RSoccer Pass Endurance custom Gym environment
 TODO
